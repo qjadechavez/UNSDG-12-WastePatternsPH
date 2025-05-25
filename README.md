@@ -1,5 +1,5 @@
 
-# Document Summary: Analyzing Consumption Patterns and Waste Management Practices in the Philippines using Big Data Analytics
+# Analyzing Consumption Patterns and Waste Management Practices in the Philippines using Big Data Analytics
 
 
 **Authors**: Jhon Arol De Chavez, Juma Francois Galvez  
